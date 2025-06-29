@@ -4,7 +4,7 @@ import random
 from datetime import datetime
 
 # アクセストークンを設定
-TOKEN = "MTM4ODY2MTI1OTEzNzcxNjI3NA.GLfZ8W.Eo2l9nL0NTQfBVqlSVRRlMjHHn9cS1rjIX4Ivc"  # 自分のアクセストークンと置換してください
+TOKEN = "XXXXX"  # 自分のアクセストークンと置換してください
 
 # Botの大元となるオブジェクトを生成する
 bot = discord.Bot(
